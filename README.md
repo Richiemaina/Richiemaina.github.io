@@ -1,0 +1,2 @@
+# Richiemaina.github.io
+schoolweb
