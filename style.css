@@ -8,11 +8,11 @@ header {
     fill: chocolate;
 }
 
-header .logo {
+/*header .logo {
     font-size: large;
     background-color: chocolate;
     position: static;
-    padding-left: 30%;
+    padding-left: 30%;*/
 }
 
 ul li {
